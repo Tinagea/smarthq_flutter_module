@@ -1,0 +1,256 @@
+{
+  "kind": "recipe#recipeEntry",
+  "recipe": {
+    "id": "recipe.9dc0005f-18b0-4e35-a02a-6ee7b1209313",
+    "label": "Crispy Baked Apple Chips",
+    "metaId": "meta.27f7e66b-3c48-435a-971d-4aeddf3dd872",
+    "appId": "62a9e3d28a86f7822e1984e66a3f9c606bf71174",
+    "dateCreated": "2023-03-16T12:27:33.882Z",
+    "notes": "Crispy baked apple chips make a healthy and delicious snack or appetizer. These chips are loaded with flavor and crunch, and perfect for munching on at any time of the day.",
+    "mediaId": "media.hero-image",
+    "servings": "4",
+    "calories": "130",
+    "isPublic": true,
+    "isCookbook": false,
+    "isAutoCurated": false,
+    "isValidated": true,
+    "isScanToCook": false,
+    "barcodes": [
+
+    ],
+    "speakableNames": [
+
+    ],
+    "tags": [
+
+    ],
+    "ingredients": [
+      "Apples"
+    ],
+    "course": [
+      "appetizer-snack"
+    ],
+    "mainIngredient": [
+
+    ],
+    "dietaryPreference": [
+
+    ],
+    "cuisine": [
+      "american"
+    ],
+    "season": [
+
+    ],
+    "capabilityInstructions": [
+
+    ],
+    "styleInstructions": [
+
+    ],
+    "parameterInstructions": [
+
+    ],
+    "menuTreeInstructions": [
+      {
+        "id": "instruction.70f2692c-bdc4-4c0a-911a-c573e2d1791f",
+        "readyInMins": "60",
+        "readyInMinsRange": {
+          "gte": "60",
+          "lte": "60"
+        },
+        "requiredCapabilities": [
+
+        ],
+        "selectableOptions": [
+          {
+            "type": "Servings",
+            "selectableValues": [
+              {
+                "type": "FoodCount",
+                "description": "4 servings",
+                "valueRange": {
+                  "gte": 4.0,
+                  "lte": 4.0
+                }
+              }
+            ]
+          }
+        ],
+        "defaultOptionConfigId": "optionConfig.269e9130-97b3-4666-8097-26ae0ddb4dc4",
+        "optionTree": [
+          {
+            "type": "Servings",
+            "optionValue": {
+              "type": "FoodCount",
+              "description": "4 servings",
+              "valueRange": {
+                "gte": 4.0,
+                "lte": 4.0
+              }
+            },
+            "config": {
+              "optionConfigId": "optionConfig.269e9130-97b3-4666-8097-26ae0ddb4dc4",
+              "readyInMins": "60",
+              "readyInMinsRange": {
+                "gte": "60",
+                "lte": "60"
+              },
+              "requiredCapabilities": [
+
+              ],
+              "steps": [
+                "step.9a74ad29-e0f7-48f5-b849-9c738d30c862",
+                "step.c97846e3-b72c-4adc-85fc-3970685d55bc",
+                "step.ec9b039d-0fe1-4543-a0a1-239feb17024c",
+                "step.f107030c-6e1f-40ef-a5ad-ca0236712e6a",
+                "step.05d98cde-53bd-40d6-9484-e5d31820694c",
+                "step.7b1f259e-0740-42c7-8397-8456727cdbb2"
+              ],
+              "ingredients": [
+                "ingredient.1b8eb986-5598-474d-88d3-d6c3d7033df5",
+                "ingredient.b988f01c-8650-4261-8b33-a31f470e731f",
+                "ingredient.1fe068c1-1226-432a-85a4-5c619ec32d01",
+                "ingredient.34af42be-894a-465d-9226-3ade1f049b27"
+              ],
+              "equipment": [
+
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": "media.hero-image",
+        "type": "original",
+        "sizes": [
+          {
+            "id": "mediasize.default",
+            "widthPixels": "512",
+            "heightPixels": "512",
+            "mediaUrl": "https://files.brillion.geappliances.com/4ba52a86-e4e2-4725-b53d-3d40759a5cd9",
+            "internalMediaUrl": "https://files.brillion.geappliances.com/4ba52a86-e4e2-4725-b53d-3d40759a5cd9"
+          }
+        ],
+        "mimetype": "image/png"
+      }
+    ],
+    "steps": [
+      {
+        "id": "step.9a74ad29-e0f7-48f5-b849-9c738d30c862",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "Preheat the oven to 225°F."
+      },
+      {
+        "id": "step.c97846e3-b72c-4adc-85fc-3970685d55bc",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "In a small bowl, mix together the sugar, cinnamon, and salt."
+      },
+      {
+        "id": "step.ec9b039d-0fe1-4543-a0a1-239feb17024c",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "Arrange the apple slices in a single layer on a baking sheet."
+      },
+      {
+        "id": "step.f107030c-6e1f-40ef-a5ad-ca0236712e6a",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "Sprinkle the sugar mixture evenly over the apple slices."
+      },
+      {
+        "id": "step.05d98cde-53bd-40d6-9484-e5d31820694c",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "Bake in the oven for 60-75 minutes, flipping the chips halfway through, until they are dried and crispy."
+      },
+      {
+        "id": "step.7b1f259e-0740-42c7-8397-8456727cdbb2",
+        "type": "manual",
+        "requiredCapabilities": [
+
+        ],
+        "directions": "Remove from the oven and transfer the chips to a wire rack to cool completely. Store in an airtight container."
+      }
+    ],
+    "ingredientObjects": [
+      {
+        "id": "ingredient.1b8eb986-5598-474d-88d3-d6c3d7033df5",
+        "name": "Apples, thinly sliced",
+        "foodMeasure": {
+          "type": "FoodCount",
+          "valueRange": {
+            "gte": 2.0,
+            "lte": 2.0
+          },
+          "unitDescription": ""
+        }
+      },
+      {
+        "id": "ingredient.b988f01c-8650-4261-8b33-a31f470e731f",
+        "name": "Granulated Sugar",
+        "foodMeasure": {
+          "type": "Volume",
+          "valueRange": {
+            "gte": 2.0,
+            "lte": 2.0
+          },
+          "volumeUnit": "TABLESPOON",
+          "unitDescription": "tablespoons"
+        }
+      },
+      {
+        "id": "ingredient.1fe068c1-1226-432a-85a4-5c619ec32d01",
+        "name": "Ground Cinnamon",
+        "foodMeasure": {
+          "type": "Volume",
+          "valueRange": {
+            "gte": 2.0,
+            "lte": 2.0
+          },
+          "volumeUnit": "TEASPOON",
+          "unitDescription": "teaspoons"
+        }
+      },
+      {
+        "id": "ingredient.34af42be-894a-465d-9226-3ade1f049b27",
+        "name": "Salt",
+        "foodMeasure": {
+          "type": "Volume",
+          "valueRange": {
+            "gte": 0.5,
+            "lte": 0.5
+          },
+          "volumeUnit": "TEASPOON",
+          "unitDescription": "teaspoon"
+        }
+      }
+    ],
+    "equipment": [
+
+    ],
+    "sections": [
+
+    ],
+    "domains": [
+      "ai.generated"
+    ],
+    "affiliateBrands": [
+
+    ]
+  }
+}

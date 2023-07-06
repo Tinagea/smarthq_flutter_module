@@ -1,0 +1,28 @@
+<svg width="375" height="232" viewBox="0 0 375 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="232" fill="black"/>
+<rect x="31" y="90" width="314" height="52" rx="2" stroke="white" stroke-width="2"/>
+<path d="M127.5 116H135.5" stroke="white" stroke-width="0.5" stroke-linecap="square"/>
+<circle cx="187" cy="116" r="19.5" stroke="white"/>
+<circle cx="187" cy="116" r="15.75" stroke="white" stroke-width="0.5"/>
+<rect x="249.5" y="96.5" width="81" height="39" rx="2.5" stroke="#FEA900"/>
+<rect x="315.2" y="113.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="254.2" y="113.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="315.2" y="106.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<!-- <rect x="254" y="106" width="11" height="5" rx="1" fill="#FEA900"/> -->
+<rect x="254.2" y="106.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="315.2" y="99.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="254.2" y="99.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="315.2" y="127.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="254.2" y="127.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="269.2" y="127.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<!-- <rect x="269.2" y="120.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/> -->
+<rect x="285.2" y="127.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<!-- <rect x="285.2" y="120.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/> -->
+<rect x="300.2" y="127.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<!-- <rect x="300.2" y="120.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/> -->
+<rect x="315.2" y="120.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<rect x="254.2" y="120.2" width="10.6" height="4.6" rx="0.8" stroke="white" stroke-width="0.4"/>
+<path d="M49.5 117C49.5 116.724 49.7239 116.5 50 116.5H101C101.276 116.5 101.5 116.724 101.5 117V126C101.5 127.933 99.933 129.5 98 129.5H53C51.067 129.5 49.5 127.933 49.5 126V117Z" stroke="white"/>
+<rect x="127.5" y="107.5" width="8" height="17" rx="1.5" stroke="white"/>
+<path d="M121 91V142" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="204" height="134" viewBox="0 0 204 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="202" height="132" rx="3" stroke="white" stroke-width="2"/>
+<path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M60 31C60 43.7027 49.7031 54 37.0007 54C24.2969 54 14 43.7027 14 31C14 18.2973 24.2969 8 37.0007 8C49.7031 8 60 18.2973 60 31Z" stroke="white" stroke-width="2"/>
+<path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M197 83C197 100.121 183.122 114 166.001 114C148.878 114 135 100.121 135 83C135 65.8789 148.878 52 166.001 52C183.122 52 197 65.8789 197 83Z" stroke="white" stroke-width="2"/>
+<path d="M66.8264 124.038C65.4721 121.738 65.7823 118.732 67.7573 116.757C70.1007 114.414 73.8995 114.414 76.2427 116.757C78.2158 118.73 78.5275 121.739 77.1775 124.038" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70.2472 122.075C69.7885 121.296 69.8937 120.278 70.5628 119.609C71.3567 118.815 72.6436 118.815 73.4372 119.609C74.1055 120.277 74.211 121.296 73.7536 122.075" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M78.8264 111.038C77.4721 108.738 77.7823 105.732 79.7573 103.757C82.1007 101.414 85.8995 101.414 88.2427 103.757C90.2158 105.73 90.5275 108.739 89.1775 111.038" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M82.2481 108.94C81.7894 108.161 81.8947 107.142 82.5637 106.473C83.3577 105.679 84.6445 105.679 85.4382 106.473C86.1065 107.141 86.212 108.16 85.7546 108.939" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M114.826 111.038C113.472 108.738 113.782 105.732 115.757 103.757C118.101 101.414 121.9 101.414 124.243 103.757C126.216 105.73 126.527 108.739 125.178 111.038" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M118.248 108.94C117.789 108.161 117.895 107.142 118.564 106.473C119.358 105.679 120.645 105.679 121.438 106.473C122.107 107.141 122.212 108.16 121.755 108.939" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<g opacity="0.301618">
+<path d="M96.8264 108.038C95.4721 105.738 95.7823 102.732 97.7573 100.757C100.101 98.4141 103.9 98.4142 106.243 100.757C108.216 102.73 108.527 105.739 107.178 108.038" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g opacity="0.301618">
+<path d="M100.276 106.013C99.8242 105.246 99.9276 104.244 100.586 103.586C101.367 102.805 102.633 102.805 103.414 103.586C104.072 104.243 104.176 105.246 103.726 106.013" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M126.139 124.488C124.785 122.188 125.095 119.182 127.07 117.207C129.414 114.863 133.213 114.864 135.556 117.207C137.529 119.18 137.84 122.188 136.491 124.488" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M129.561 122.389C129.102 121.61 129.208 120.592 129.877 119.923C130.671 119.129 131.958 119.129 132.751 119.922C133.419 120.591 133.525 121.61 133.068 122.389" stroke="white" stroke-width="0.6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="105.5" y="121.5" width="13" height="8" rx="0.5" stroke="white"/>
+<path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M184 26.5C184 36.7174 175.718 45 165.501 45C155.282 45 147 36.7174 147 26.5C147 16.2826 155.282 8 165.501 8C175.718 8 184 16.2826 184 26.5Z" stroke="white" stroke-width="2"/>
+<path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M130 38C130 54.0165 117.017 67 101.001 67C84.9831 67 72 54.0165 72 38C72 21.9835 84.9831 9 101.001 9C117.017 9 130 21.9835 130 38Z" stroke="white" stroke-width="2"/>
+<path opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M60 88C60 100.703 49.7031 111 37.0007 111C24.2969 111 14 100.703 14 88C14 75.2973 24.2969 65 37.0007 65C49.7031 65 60 75.2973 60 88Z" stroke="white" stroke-width="2"/>
+<rect opacity="0.25" x="10.25" y="48.25" width="0.5" height="23.5" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.25" x="63.25" y="48.25" width="0.5" height="23.5" stroke="white" stroke-width="0.5"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="79" height="96" viewBox="0 0 79 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="82.6931" width="77" height="11.4659" rx="2" stroke="white" stroke-width="2"/>
+<rect x="16.5" y="43.5" width="20" height="7" rx="1.5" stroke="white"/>
+<rect x="18.5" y="50.5" width="16" height="7" rx="1.5" stroke="white"/>
+<rect x="44.5" y="50.5" width="16" height="7" rx="1.5" stroke="white"/>
+<path d="M42.5 45C42.5 44.1716 43.1716 43.5 44 43.5H61C61.8284 43.5 62.5 44.1716 62.5 45V49C62.5 49.8284 61.8284 50.5 61 50.5H44C43.1716 50.5 42.5 49.8284 42.5 49V45Z" stroke="white"/>
+<rect x="1" y="19.8523" width="77" height="24.0341" rx="2" stroke="white" stroke-width="2"/>
+<path d="M8.3299 3C8.3299 1.89543 9.22533 1 10.3299 1H27.9484C29.053 1 29.9485 1.89543 29.9485 3V11.6477C29.9485 16.066 26.3667 19.6477 21.9485 19.6477H16.3299C11.9116 19.6477 8.3299 16.066 8.3299 11.6477V3Z" stroke="white" stroke-width="2"/>
+<rect x="6.70102" y="44.0909" width="65.5979" height="38.3977" rx="2" stroke="white" stroke-width="2"/>
+<circle cx="40.0414" cy="31.8693" r="5.08523" stroke="white" stroke-width="1.5"/>
+<circle cx="64.6734" cy="32.3182" r="3.09091" stroke="white"/>
+<circle cx="25.849" cy="32.3182" r="3.09091" stroke="white"/>
+<circle cx="54.0858" cy="32.3182" r="3.09091" stroke="white"/>
+<circle cx="15.2613" cy="32.3182" r="3.09091" stroke="white"/>
+</svg>

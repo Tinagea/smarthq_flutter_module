@@ -1,0 +1,24 @@
+<svg width="375" height="232" viewBox="0 0 375 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="375" height="232" fill="black"/>
+<path d="M44 95.0694C44 90.9816 47.0404 87.5769 51.0879 87.1823C71.9494 85.1482 130.478 80 188.441 80C246.332 80 304.221 85.1355 324.924 87.1746C328.967 87.5728 332 90.9747 332 95.0587V151H44V95.0694Z" stroke="white" stroke-width="2"/>
+<circle cx="187" cy="114" r="17.75" stroke="white" stroke-width="0.5"/>
+<rect x="228.5" y="99.5" width="79" height="33" rx="1.5" stroke="white"/>
+<circle cx="187" cy="114" r="11.5" stroke="white"/>
+<circle cx="187" cy="134" r="4.5" fill="#202123" stroke="white"/>
+<path d="M63 86.5V149.5" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path d="M314 86.5V149.5" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<circle cx="133.5" cy="105.5" r="6" stroke="white"/>
+<circle cx="133.5" cy="128.5" r="6" stroke="white"/>
+<rect x="244.2" y="125.2" width="9.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="251" y="91" width="8" height="5" rx="1" fill="#F2A900"/>
+<rect x="242.2" y="91.2" width="7.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="281.2" y="125.2" width="10.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="256.2" y="125.2" width="9.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="260" y="91" width="8" height="5" rx="1" fill="#F2A900"/>
+<rect x="294.2" y="125.2" width="10.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="268.2" y="125.2" width="8.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="269.2" y="91.2" width="7.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="232.2" y="103.2" width="44.6" height="19.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="281.2" y="118.2" width="23.6" height="4.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+<rect x="281.2" y="103.2" width="23.6" height="12.6" rx="0.8" stroke="#DBDBDB" stroke-width="0.4"/>
+</svg>

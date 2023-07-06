@@ -1,0 +1,29 @@
+<svg width="322" height="155" viewBox="0 0 322 155" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="33" y="49" width="256" height="56" rx="2" stroke="white" stroke-width="2"/>
+    <rect x="96.25" y="62.25" width="21.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="60.25" y="62.25" width="21.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="60.25" y="78.25" width="21.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="96.25" y="78.25" width="21.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="96.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="60.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="110.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="74.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="204.25" y="62.25" width="21.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="204.25" y="77.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="218.25" y="77.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="204.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="218.25" y="93.25" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="237.25" y="62.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="247.25" y="62.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="257.25" y="62.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="237.25" y="72.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="247.25" y="72.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="257.25" y="72.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="237.25" y="83.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="247.25" y="83.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="257.25" y="83.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="237.25" y="93.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="247.25" y="93.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <rect x="257.25" y="93.25" width="4.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    <path d="M128.5 64C128.5 63.1716 129.172 62.5 130 62.5H192C192.828 62.5 193.5 63.1716 193.5 64V89C193.5 89.8284 192.828 90.5 192 90.5H130C129.172 90.5 128.5 89.8284 128.5 89V64Z" stroke="white"/>
+</svg>

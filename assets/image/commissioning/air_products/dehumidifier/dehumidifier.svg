@@ -1,0 +1,31 @@
+<svg width="375" height="232" viewBox="0 0 375 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="26" y="63" width="323" height="106" rx="7" stroke="white" stroke-width="2"/>
+<rect x="48.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<line x1="47.5" y1="153.5" x2="64.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+<rect x="85" y="130" width="16" height="16" rx="8" fill="#FDBA12"/>
+<line x1="84.5" y1="153.5" x2="101.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+<rect x="85" y="114" width="16" height="6" rx="1" fill="#FFBB00"/>
+<rect opacity="0.5" x="122.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="180.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="171.25" y="75.25" width="33.5" height="32.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="237.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="274.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="274.25" y="102.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="311.25" y="102.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="311.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="122.25" y="102.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="122.25" y="90.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="122.25" y="78.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect opacity="0.5" x="48.25" y="114.25" width="15.5" height="5.5" rx="0.75" stroke="white" stroke-width="0.5"/>
+<rect x="122.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<rect x="159.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<rect x="200.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<rect x="237.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<rect x="274.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<rect x="311.5" y="130.5" width="15" height="15" rx="7.5" stroke="white"/>
+<line x1="84.5" y1="153.5" x2="101.5" y2="153.5" stroke="#FDBA12" stroke-linecap="round"/>
+<line x1="121.5" y1="153.5" x2="138.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+<line x1="236.5" y1="153.5" x2="253.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+<line x1="273.5" y1="153.5" x2="290.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+<line x1="310.5" y1="153.5" x2="327.5" y2="153.5" stroke="white" stroke-linecap="round"/>
+</svg>

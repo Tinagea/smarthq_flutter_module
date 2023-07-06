@@ -1,0 +1,18 @@
+<svg width="294" height="239" viewBox="0 0 294 239" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M112.586 194.743L179.339 194.743L180.041 206.568H111.959L112.586 194.743Z" fill="#F7B500"/>
+<path d="M255.857 112.694C255.82 112.587 255.801 112.475 255.801 112.363V68.126C255.801 67.9252 256.064 67.8497 256.17 68.0199L261.733 76.9043C261.833 77.0634 261.886 77.2473 261.886 77.435V128.686C261.886 128.911 261.572 128.965 261.497 128.753L255.857 112.694Z" fill="#F7B500"/>
+<path d="M9.74428 2.67793V183.2" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path d="M282.795 2.67793V183.2" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path d="M3.18339 185.429C3.24611 184.372 4.12094 183.548 5.17921 183.547L287.347 183.454C288.391 183.454 289.259 184.255 289.342 185.295L291.764 215.603C291.857 216.766 290.938 217.762 289.77 217.762H3.38592C2.23474 217.762 1.3212 216.793 1.38943 215.644L3.18339 185.429Z" stroke="white" stroke-width="2"/>
+<path d="M1.57629 216.724L5.77346 237.184" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<g opacity="0.5">
+<path d="M58.2066 16.2779V152.287" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path d="M233.603 16.2779V152.287" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<path d="M58.3659 152.695H233.653" stroke="white" stroke-width="2" stroke-linecap="square"/>
+<line y1="-1" x2="31.3758" y2="-1" transform="matrix(0.237009 -0.971507 0.997748 0.0670768 51.9388 182.453)" stroke="white" stroke-width="2"/>
+<line y1="-1" x2="31.3758" y2="-1" transform="matrix(-0.237009 -0.971507 -0.997748 0.0670768 240.061 182.453)" stroke="white" stroke-width="2"/>
+</g>
+<path d="M269.847 182.453V26.1445C269.847 20.0694 264.922 15.1445 258.847 15.1445H34.3752C28.3001 15.1445 23.3752 20.0694 23.3752 26.1445V182.453" stroke="white" stroke-width="2"/>
+<line x1="8.73541" y1="1.83374" x2="283.801" y2="2.05015" stroke="white" stroke-width="2"/>
+<path d="M291.568 216.756L287.371 237.216" stroke="white" stroke-width="2" stroke-linecap="square"/>
+</svg>

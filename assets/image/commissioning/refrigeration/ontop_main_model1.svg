@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="232" viewBox="0 0 375 232">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <path stroke="#FFF" stroke-width="2" d="M312.246 41H5.518C2.47 41 0 38.53 0 35.482V5.685C0 2.638 2.47.167 5.518.167h306.728c3.047 0 5.518 2.471 5.518 5.518v29.797c0 3.047-2.471 5.518-5.518 5.518z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path stroke="#FFF" d="M144.993 26.448h-23.915c-.833 0-1.509-.675-1.509-1.509v-8.712c0-.832.676-1.508 1.51-1.508h23.914c.833 0 1.508.676 1.508 1.508v8.712c0 .834-.675 1.509-1.508 1.509z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path stroke="#FFF" stroke-width=".5" d="M69.822 22.913H57.678c-.833 0-1.508-.676-1.508-1.509v-1.64c0-.834.675-1.51 1.508-1.51h12.142c.834 0 1.51.676 1.51 1.51v1.64c0 .833-.677 1.51-1.51 1.51z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path fill="#F2A900" stroke="#FB0" d="M28.555 24.95H16.413c-.833 0-1.508-.675-1.508-1.508v-5.716c0-.834.675-1.508 1.508-1.508h12.142c.833 0 1.508.674 1.508 1.508v5.716c0 .832-.675 1.509-1.508 1.509z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path stroke="#FFF" d="M300.559 24.95h-12.142c-.833 0-1.508-.675-1.508-1.508v-5.716c0-.834.675-1.508 1.508-1.508h12.142c.833 0 1.508.674 1.508 1.508v5.716c0 .832-.675 1.509-1.508 1.509z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path stroke="#FFF" stroke-width=".5" d="M262.93 22.913h-12.142c-.833 0-1.508-.676-1.508-1.509v-1.64c0-.834.675-1.51 1.508-1.51h12.142c.833 0 1.508.676 1.508 1.51v1.64c0 .833-.675 1.51-1.508 1.51z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                        <path stroke="#FFF" d="M196.468 26.448h-23.915c-.834 0-1.509-.675-1.509-1.509v-8.712c0-.832.675-1.508 1.51-1.508h23.914c.833 0 1.508.676 1.508 1.508v8.712c0 .834-.675 1.509-1.508 1.509z" transform="translate(0 -110) translate(0 110) translate(29 95) translate(0 .833)"/>
+                    </g>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(0 -110) translate(0 110) translate(29 95)">
+                        <tspan x="101.325" y="22.746">+</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(0 -110) translate(0 110) translate(29 95)">
+                        <tspan x="79.388" y="22.746">-</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(0 -110) translate(0 110) translate(29 95)">
+                        <tspan x="230.556" y="22.746">+</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(0 -110) translate(0 110) translate(29 95)">
+                        <tspan x="208.619" y="22.746">-</tspan>
+                    </text>
+                    <g stroke-linecap="round">
+                        <path stroke="#F2A900" d="M0.904 0.837L16.064 0.837" transform="translate(0 -110) translate(0 110) translate(29 95) translate(14 28.832)"/>
+                        <path stroke="#FFF" d="M272.908 0.837L288.067 0.837" transform="translate(0 -110) translate(0 110) translate(29 95) translate(14 28.832)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,199 @@
+name: smarthq_flutter_module
+description: Flutter module for SmartHQ
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+#
+# This version is used _only_ for the Runner app, which is used if you just do
+# a `flutter run` or a `flutter make-host-app-editable`. It has no impact
+# on any other native host app that you embed your Flutter project into.
+version: 1.0.0+1
+publish_to: none #to fix git warning
+
+environment:
+  sdk: '>=2.17.3 <3.0.0'
+  flutter: ^3.3.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.4
+
+  # Multi language support
+  flutter_localizations:
+    sdk: flutter
+
+  focus_detector: ^2.0.1
+
+  flutter_screenutil: 5.8.1
+
+  # Logging
+  commonlogging:
+    git:
+      url: https://github.com/geappliances/fluttercommon.logging.git
+      ref: develop
+
+  # Shared Preference Manager
+  shared_preferences: ^2.0.15
+  flutter_secure_storage: ^8.0.0
+  encrypt: ^5.0.1
+
+  # REST API
+  dio: ^5.0.0
+
+  # websocket
+  web_socket_channel: ^2.2.0
+
+  # Http libraries
+  retrofit: ^4.0.1
+
+  # Device Environment
+  device_info_plus: ^9.0.0
+  package_info_plus: ^4.0.0
+
+  # Dependency Injection
+  get_it: ^7.2.0
+
+  # data handling
+  flutter_bloc: ^8.0.1    #for BLOC design pattern
+  rxdart: ^0.27.4         #for BLOC design pattern
+  equatable: ^2.0.3
+
+  # Util libraries
+  flutter_svg: ^1.1.0    #for Vector image loadxml
+  url_launcher: ^6.1.3    #for url link to browser.
+  pin_code_fields: ^7.4.0 #for ACM password input filed
+  page_view_indicators: ^2.0.0
+  flutter_picker: ^2.0.3
+  auto_size_text: ^3.0.0
+  load_switch: ^1.1.0
+  lottie: ^1.3.0
+  flutter_rating_bar: ^4.0.1
+
+  # Permission
+  permission_handler: ^9.2.0    #for Android's wifi network permission when commissioning.
+
+  # Android Intent
+  android_intent:
+  video_player: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # REST API
+  retrofit_generator: ^6.0.0+1
+  build_runner: ^2.2.1
+  json_serializable: ^6.4.1
+
+  # TEST
+  http_mock_adapter: ^0.4.2
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add Flutter specific assets to your application, add an assets section, 
+  # like this:
+  assets:
+    - assets/certificates/
+    - assets/image/commissioning/show_me_how/iphone/
+    - assets/image/commissioning/show_me_how/iphonex/
+    - assets/image/commissioning/show_me_how/android/
+    - assets/image/commissioning/category/
+    - assets/image/commissioning/gateway/
+    - assets/image/commissioning/laundry/
+    - assets/image/commissioning/dishwasher/
+    - assets/image/commissioning/refrigeration/
+    - assets/image/commissioning/refrigeration/beverage_center/
+    - assets/image/commissioning/refrigeration/wine_center/
+    - assets/image/commissioning/refrigeration/under_counter/
+    - assets/image/commissioning/countertops/
+    - assets/image/commissioning/countertops/opal/
+    - assets/image/commissioning/countertops/coffee_maker/
+    - assets/image/commissioning/countertops/espresso/
+    - assets/image/commissioning/countertops/toaster_oven/
+    - assets/image/commissioning/countertops/stand_mixer/
+    - assets/image/commissioning/wifi_locker/
+    - assets/image/commissioning/air_products/
+    - assets/image/commissioning/air_products/ductless_ac/
+    - assets/image/commissioning/air_products/window_ac/
+    - assets/image/commissioning/air_products/portable_ac/
+    - assets/image/commissioning/air_products/dehumidifier/
+    - assets/image/commissioning/air_products/haier_ac/
+    - assets/image/commissioning/cooking/
+    - assets/image/commissioning/cooking/cooktop/
+    - assets/image/commissioning/cooking/microwave/
+    - assets/image/commissioning/cooking/range/
+    - assets/image/commissioning/cooking/wall_oven/
+    - assets/image/commissioning/cooking/hearth_oven/
+    - assets/image/commissioning/cooking/advantium/
+    - assets/image/commissioning/cooking/hood/
+    - assets/image/commissioning/water_products/
+    - assets/image/commissioning/water_products/water_softener/
+    - assets/image/commissioning/water_products/water_heater/
+    - assets/image/commissioning/water_products/water_filter/
+    - assets/image/commissioning/grind_brew/
+    - assets/image/commissioning/brand/
+    - assets/image/control/stand_mixer/
+    - assets/image/shortcut/
+    - assets/image/shortcut/appliance_types/
+    - assets/image/type/
+    - assets/image/ble/
+    - assets/image/recipes/
+    - assets/image/
+    - assets/animation/shortcut/
+    - assets/flavourly/image/
+    - assets/flavourly/
+    - assets/flavourly/menu_1.json
+    - locale/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add Flutter specific custom fonts to your application, add a fonts
+  # section here, in this "flutter" section. Each entry in this list should
+  # have a "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/font/Poppins-Bold.ttf
+        - asset: assets/font/Poppins-SemiBold.ttf
+        - asset: assets/font/Poppins-Medium.ttf
+        - asset: assets/font/Poppins-Italic.ttf
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+
+
+  # This section identifies your Flutter project as a module meant for
+  # embedding in a native host app.  These identifiers should _not_ ordinarily
+  # be changed after generation - they are used to ensure that the tooling can
+  # maintain consistency when adding or modifying assets and plugins.
+  # They also do not have any bearing on your native host application's
+  # identifiers, which may be completely independent or the same as these.
+  module:
+    androidX: true
+    androidPackage: com.ge.smarthq.smarthq_flutter_module
+    iosBundleIdentifier: com.ge.smarthq.smarthqFlutterModule

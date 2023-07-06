@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="232" viewBox="0 0 375 232">
+    <defs>
+        <path id="7o6w5acl0a" d="M0 0.276L247.817 0.276 247.817 230.088 0 230.088z"/>
+        <path id="ia7zib9esc" d="M0.493 0.171L231.696 0.171 231.696 189.61 0.493 189.61z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(0 -110) translate(0 110) translate(62.832) translate(0 .434)">
+                        <mask id="dp46tc4s7b" fill="#fff">
+                            <use xlink:href="#7o6w5acl0a"/>
+                        </mask>
+                        <path fill="#FFF" d="M247.818 230.088h-2.646V23.382c0-11.28-9.17-20.458-20.442-20.458H23.087c-11.271 0-20.441 9.178-20.441 20.458v206.706H0V23.382C0 10.641 10.357.276 23.087.276H224.73c12.73 0 23.088 10.365 23.088 23.106v206.706z" mask="url(#dp46tc4s7b)"/>
+                    </g>
+                    <g transform="translate(0 -110) translate(0 110) translate(62.832) translate(7.805 40.912)">
+                        <mask id="aviufqh87d" fill="#fff">
+                            <use xlink:href="#ia7zib9esc"/>
+                        </mask>
+                        <path fill="#FFF" d="M231.696 189.61h-1.322V8.508c0-3.866-3.143-7.013-7.008-7.013H8.823c-3.864 0-7.007 3.147-7.007 7.013V189.61H.493V8.508C.493 3.912 4.23.171 8.823.171h214.543c4.593 0 8.33 3.74 8.33 8.337V189.61z" mask="url(#aviufqh87d)"/>
+                    </g>
+                    <path fill="#FFF" d="M84.618 19.612c-.926 0-1.68.754-1.68 1.679 0 .927.754 1.68 1.68 1.68h78.564c.926 0 1.68-.753 1.68-1.68 0-.925-.754-1.679-1.68-1.679H84.618zm78.564 4.684H84.618c-1.655 0-3.002-1.349-3.002-3.005s1.347-3.003 3.002-3.003h78.564c1.655 0 3.002 1.347 3.002 3.003 0 1.656-1.347 3.005-3.002 3.005z" transform="translate(0 -110) translate(0 110) translate(62.832)"/>
+                    <g>
+                        <text fill="#FFF" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" letter-spacing=".24" opacity=".5" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272)">
+                            <tspan x="1.832" y="13.873">NETWORK1</tspan>
+                        </text>
+                        <text fill="#FDBA12" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" letter-spacing=".24" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272)">
+                            <tspan x="3.193" y="64.11">GE_MODULE_XXXX</tspan>
+                        </text>
+                        <text fill="#FFF" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" letter-spacing=".24" opacity=".5" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272)">
+                            <tspan x="1.349" y="114.346">HomeWifi</tspan>
+                        </text>
+                        <g fill="#FFF" opacity=".5">
+                            <path d="M7.015 10.83l.091.091.09-.092 1.298-1.572c-.376-.328-.856-.534-1.388-.534-.532 0-1.013.206-1.389.534l1.298 1.572zM3.82 6.956c.917-.796 2.068-1.233 3.286-1.233 1.217 0 2.368.437 3.286 1.233l.837-1.014c-1.153-.999-2.596-1.547-4.123-1.547-1.528 0-2.972.548-4.124 1.547l.838 1.015zM.207 2.581C2.134.912 4.55 0 7.107 0c2.554 0 4.97.912 6.897 2.581l-.84 1.018c-1.693-1.467-3.813-2.271-6.058-2.271-2.245 0-4.366.804-6.059 2.27l-.84-1.017z" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272) translate(200.86 2.912)"/>
+                        </g>
+                        <g fill="#FDBA12">
+                            <path d="M7.015 10.83l.091.091.09-.092 1.298-1.572c-.376-.328-.856-.534-1.388-.534-.532 0-1.013.206-1.389.534l1.298 1.572zM3.82 6.956c.917-.796 2.068-1.233 3.286-1.233 1.217 0 2.368.437 3.286 1.233l.837-1.014c-1.153-.999-2.596-1.547-4.123-1.547-1.528 0-2.972.548-4.124 1.547l.838 1.015zM.207 2.581C2.134.912 4.55 0 7.107 0c2.554 0 4.97.912 6.897 2.581l-.84 1.018c-1.693-1.467-3.813-2.271-6.058-2.271-2.245 0-4.366.804-6.059 2.27l-.84-1.017z" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272) translate(200.86 53.15)"/>
+                        </g>
+                        <g fill="#FFF" opacity=".5">
+                            <path d="M7.015 10.83l.091.091.09-.092 1.298-1.572c-.376-.328-.856-.534-1.388-.534-.532 0-1.013.206-1.389.534l1.298 1.572zM3.82 6.956c.917-.796 2.068-1.233 3.286-1.233 1.217 0 2.368.437 3.286 1.233l.837-1.014c-1.153-.999-2.596-1.547-4.123-1.547-1.528 0-2.972.548-4.124 1.547l.838 1.015zM.207 2.581C2.134.912 4.55 0 7.107 0c2.554 0 4.97.912 6.897 2.581l-.84 1.018c-1.693-1.467-3.813-2.271-6.058-2.271-2.245 0-4.366.804-6.059 2.27l-.84-1.017z" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272) translate(200.86 103.386)"/>
+                        </g>
+                        <g opacity=".5" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272) translate(186.433 6.553)">
+                            <rect width="4.357" height="2.912" y="1.456" fill="#FFF" rx="1"/>
+                            <path stroke="#FFF" d="M.727 2.184C.71.728 1.179 0 2.133 0s1.453.728 1.498 2.184"/>
+                        </g>
+                        <g opacity=".5" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272) translate(186.433 107.026)">
+                            <rect width="4.357" height="2.912" y="1.456" fill="#FFF" rx="1"/>
+                            <path stroke="#FFF" d="M.727 2.184C.71.728 1.179 0 2.133 0s1.453.728 1.498 2.184"/>
+                        </g>
+                        <path stroke="#FFF" stroke-linecap="square" d="M2.36 85.184L216.18 85.184M2.36 34.947L216.18 34.947" opacity=".25" transform="translate(0 -110) translate(0 110) translate(62.832) translate(16.885 82.272)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

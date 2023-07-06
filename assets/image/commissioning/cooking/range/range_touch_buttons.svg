@@ -1,0 +1,33 @@
+<svg width="322" height="156" viewBox="0 0 322 156" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="33" y="49.5" width="256" height="56" rx="2" stroke="white" stroke-width="2"/>
+    <rect opacity="0.2" x="143.25" y="58.75" width="35.5" height="37.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+    <rect opacity="0.2" x="94.25" y="54.75" width="133.5" height="45.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+    <g opacity="0.6">
+        <rect x="115.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="101.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="129.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="115.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="101.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="129.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="115.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="101.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="129.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="115.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="101.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="129.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    </g>
+    <g opacity="0.6">
+        <rect x="199.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="185.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="213.25" y="81.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="199.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="185.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="213.25" y="72.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="199.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="185.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="213.25" y="62.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="199.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="185.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+        <rect x="213.25" y="91.75" width="7.5" height="0.5" stroke="white" stroke-width="0.5"/>
+    </g>
+</svg>

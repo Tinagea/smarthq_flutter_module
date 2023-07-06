@@ -1,0 +1,22 @@
+<svg width="375" height="232" viewBox="0 0 375 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 114.368C16 99.7872 26.8075 87.5306 41.2856 86.046C73.0453 82.7892 129.451 78 186.5 78C243.823 78 301.376 82.8353 333.644 86.0929C348.157 87.5581 359 99.8324 359 114.446V144C359 148.971 354.971 153 350 153H25C20.0294 153 16 148.971 16 144V114.368Z" stroke="white" stroke-width="2"/>
+<rect x="66.5" y="122.5" width="27" height="9" rx="0.5" stroke="white"/>
+<rect x="104.5" y="122.5" width="27" height="9" rx="0.5" stroke="white"/>
+<rect x="234.5" y="122.5" width="27" height="9" rx="0.5" stroke="white"/>
+<rect x="169.5" y="98.5" width="31" height="19" rx="0.5" stroke="white"/>
+<rect x="272.5" y="122.5" width="27" height="9" rx="0.5" stroke="white"/>
+<rect x="310" y="122" width="28" height="10" rx="1" fill="#FDBA12"/>
+<rect x="78.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="104.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="116.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="128.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="234.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="246.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="258.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="284.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<rect x="322.25" y="106.25" width="3.5" height="3.5" rx="1.75" stroke="white" stroke-width="0.5"/>
+<path d="M224.559 123.112H222.027V125.668H220.959V123.112H218.439V122.116H220.959V119.548H222.027V122.116H224.559V123.112Z" fill="white"/>
+<path d="M224.559 123.112H222.027V125.668H220.959V123.112H218.439V122.116H220.959V119.548H222.027V122.116H224.559V123.112Z" fill="white"/>
+<path d="M154.673 122.14V123.064H149.873V122.14H154.673Z" fill="white"/>
+<path d="M154.673 122.14V123.064H149.873V122.14H154.673Z" fill="white"/>
+</svg>

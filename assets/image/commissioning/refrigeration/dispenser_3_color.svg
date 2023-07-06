@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="232" viewBox="0 0 375 232">
+    <defs>
+        <path id="xt1bbsipma" d="M0 175L319.005 175 319.005 0.804 0 0.804z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-4136 -2815) translate(4136 2815) translate(28 28)">
+                        <path stroke="#FFF" stroke-width="2" d="M317.65 173.644H1.354V16.923c0-8.153 6.606-14.761 14.754-14.761h286.786c8.148 0 14.754 6.608 14.754 14.76v156.722z"/>
+                        <mask id="uiwvsxeblb" fill="#fff">
+                            <use xlink:href="#xt1bbsipma"/>
+                        </mask>
+                        <path stroke="#FFF" stroke-width="2" d="M1.355 173.643L317.649 173.643 317.649 138.287 1.355 138.287z" mask="url(#uiwvsxeblb)"/>
+                    </g>
+                    <text fill="#FFF" font-family="Helvetica-Bold, Helvetica" font-size="11" font-weight="bold" transform="translate(-4136 -2815) translate(4136 2815) translate(28 28)">
+                        <tspan x="132" y="161">AutoFill</tspan>
+                    </text>
+                    <g>
+                        <path stroke="#FFF" d="M60.945 44.93h-2.812c-2.421 0-4.384-1.963-4.384-4.382V37.74c0-2.42 1.963-4.383 4.384-4.383h2.812c2.422 0 4.385 1.962 4.385 4.383v2.808c0 2.42-1.963 4.381-4.385 4.381z" opacity=".5" transform="translate(-4136 -2815) translate(4136 2815) translate(28 28) translate(41 118)"/>
+                        <path fill="#FB0" d="M7.195 44.93H4.384C1.962 44.93 0 42.966 0 40.547V37.74c0-2.42 1.962-4.383 4.384-4.383h2.811c2.423 0 4.385 1.962 4.385 4.383v2.808c0 2.42-1.962 4.381-4.385 4.381z" transform="translate(-4136 -2815) translate(4136 2815) translate(28 28) translate(41 118)"/>
+                        <path stroke="#FFF" d="M66.972 12.35H52.106c-2.421 0-4.385-1.962-4.385-4.38V5.16c0-2.42 1.964-4.382 4.385-4.382h14.866c2.422 0 4.385 1.962 4.385 4.383v2.808c0 2.42-1.963 4.381-4.385 4.381zM178.197 44.93h-2.811c-2.422 0-4.385-1.963-4.385-4.382V37.74c0-2.42 1.963-4.383 4.385-4.383h2.811c2.423 0 4.386 1.962 4.386 4.383v2.808c0 2.42-1.963 4.381-4.386 4.381zM232.026 44.93h-2.812c-2.421 0-4.385-1.963-4.385-4.382V37.74c0-2.42 1.964-4.383 4.385-4.383h2.812c2.423 0 4.385 1.962 4.385 4.383v2.808c0 2.42-1.962 4.381-4.385 4.381z" opacity=".5" transform="translate(-4136 -2815) translate(4136 2815) translate(28 28) translate(41 118)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

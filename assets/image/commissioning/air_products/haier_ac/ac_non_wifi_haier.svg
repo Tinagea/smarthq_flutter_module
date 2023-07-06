@@ -1,0 +1,19 @@
+<svg width="375" height="232" viewBox="0 0 375 232" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-194" y="23" width="544" height="182" rx="20" stroke="white" stroke-width="2"/>
+<rect x="-194" y="152" width="543" height="2" fill="white" fill-opacity="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-176.5 154V174C-176.5 177.282 -174.392 180.071 -171.457 181.088C-173.573 179.884 -175 177.609 -175 175V166H334.5V154H335.5V174C335.5 178.694 331.694 182.5 327 182.5H-169C-173.694 182.5 -177.5 178.694 -177.5 174V154H-176.5Z" fill="white" fill-opacity="0.5"/>
+<rect x="-176.5" y="43.5" width="385" height="87" rx="1.5" stroke="white" stroke-opacity="0.5"/>
+<path d="M209 72H-112C-112.552 72 -113 72.4477 -113 73V101C-113 101.552 -112.552 102 -112 102H209" stroke="white" stroke-opacity="0.5"/>
+<path opacity="0.5" d="M220.5 47C220.5 45.067 222.067 43.5 224 43.5H338C339.933 43.5 341.5 45.067 341.5 47V127C341.5 128.933 339.933 130.5 338 130.5H245.5C243.567 130.5 242 128.933 242 127V111C242 108.515 239.985 106.5 237.5 106.5H224C222.067 106.5 220.5 104.933 220.5 103V47Z" stroke="white"/>
+<mask id="mask0_2234_11055" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="260" y="69" width="64" height="36">
+<rect x="260" y="69" width="64" height="36" rx="2" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_2234_11055)">
+<path d="M312 77C312 75.8954 311.105 75 310 75H267.655C266.551 75 265.655 75.8954 265.655 77V97C265.655 98.1046 266.551 99 267.655 99H310C311.105 99 312 98.1046 312 97V77Z" fill="#FDBA12" stroke="white"/>
+<path d="M306.851 75H270.805L265.655 79.8V94.2L270.805 99H306.851L312 94.2V79.8L306.851 75Z" fill="#FDBA12" stroke="white"/>
+<path d="M265.655 81H257C256.448 81 256 81.4477 256 82V92C256 92.5523 256.448 93 257 93H265.655V81Z" fill="#FDBA12" stroke="white"/>
+<rect x="-0.5" y="0.5" width="1.83218" height="2.33333" transform="matrix(-1 0 0 1 261.437 82.3335)" fill="#FDBA12" stroke="white"/>
+<rect x="-0.5" y="0.5" width="1.83218" height="2.33333" transform="matrix(-1 0 0 1 261.437 88.3334)" fill="#FDBA12" stroke="white"/>
+</g>
+<rect x="260.5" y="72.5" width="59" height="29" rx="1.5" stroke="white"/>
+</svg>

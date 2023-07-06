@@ -1,0 +1,13 @@
+<svg width="320" height="82" viewBox="0 0 320 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="288.915" cy="40.6998" rx="29.6029" ry="29.4324" stroke="#F2A900" stroke-width="2"/>
+<rect x="286.548" y="9" width="5.17647" height="64" fill="black" stroke="#F2A900" stroke-width="2"/>
+<g opacity="0.5">
+<ellipse cx="204.915" cy="40.6998" rx="29.6029" ry="29.4324" stroke="white" stroke-width="2"/>
+<rect x="202.548" y="9" width="5.17647" height="64" fill="black" stroke="white" stroke-width="2"/>
+</g>
+<rect x="0.5" y="0.5" width="151" height="81" rx="4.90959" stroke="white"/>
+<path opacity="0.5" d="M6.95456 7.957C6.95456 7.01546 7.71782 6.2522 8.65936 6.2522H35.0455V38.5195H6.95456V7.957Z" stroke="white"/>
+<path d="M6.45456 74.0425C6.45456 75.2602 7.44168 76.2473 8.65936 76.2473H35.5455V42.98H6.45456V74.0425Z" fill="#F2A900"/>
+<path opacity="0.5" d="M145.045 7.957C145.045 7.01546 144.282 6.2522 143.341 6.2522H116.955V38.5195H145.045V7.957Z" stroke="white"/>
+<path opacity="0.5" d="M145.045 74.0425C145.045 74.984 144.282 75.7473 143.341 75.7473H116.955V43.48H145.045V74.0425Z" stroke="white"/>
+</svg>

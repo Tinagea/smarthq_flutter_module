@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="322" height="155" viewBox="0 0 322 155">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <path stroke="#FFF" stroke-width="2" d="M312.478 40.833H5.522C2.472 40.833 0 38.362 0 35.315V5.518C0 2.471 2.473 0 5.522 0h306.956C315.528 0 318 2.471 318 5.518v29.797c0 3.047-2.473 5.518-5.522 5.518z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <path stroke="#FFF" d="M144.994 26.28h-23.915c-.833 0-1.51-.675-1.51-1.508V16.06c0-.833.677-1.509 1.51-1.509h23.915c.833 0 1.507.676 1.507 1.51v8.711c0 .833-.674 1.508-1.507 1.508z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <path stroke="#FFF" stroke-width=".5" d="M69.822 22.746H57.68c-.833 0-1.508-.676-1.508-1.509v-1.64c0-.834.675-1.51 1.508-1.51h12.142c.833 0 1.509.676 1.509 1.51v1.64c0 .833-.676 1.51-1.51 1.51z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <path stroke="#FFF" d="M28.555 24.783H16.413c-.833 0-1.508-.676-1.508-1.509v-5.716c0-.834.675-1.508 1.508-1.508h12.142c.833 0 1.508.674 1.508 1.508v5.716c0 .833-.675 1.51-1.508 1.51zM300.559 24.783h-12.142c-.833 0-1.508-.676-1.508-1.509v-5.716c0-.834.675-1.508 1.508-1.508h12.142c.833 0 1.508.674 1.508 1.508v5.716c0 .833-.675 1.51-1.508 1.51z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <path stroke="#FFF" stroke-width=".5" d="M262.93 22.746h-12.142c-.833 0-1.508-.676-1.508-1.509v-1.64c0-.834.675-1.51 1.508-1.51h12.142c.833 0 1.508.676 1.508 1.51v1.64c0 .833-.675 1.51-1.508 1.51z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <path stroke="#FFF" d="M196.469 26.28h-23.915c-.834 0-1.51-.675-1.51-1.508V16.06c0-.833.676-1.509 1.51-1.509h23.915c.833 0 1.508.676 1.508 1.51v8.711c0 .833-.675 1.508-1.508 1.508z" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)"/>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)">
+                        <tspan x="101.325" y="21.746">+</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)">
+                        <tspan x="82" y="21.746">-</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)">
+                        <tspan x="230.556" y="21.746">+</tspan>
+                    </text>
+                    <text fill="#FFF" font-family="Helvetica" font-size="11" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57)">
+                        <tspan x="211" y="21.746">-</tspan>
+                    </text>
+                    <g stroke="#FFF" stroke-linecap="round">
+                        <path d="M.904.837L16.064.837M272.908.837L288.067.837" transform="translate(-3191 -5184) translate(3191 5184) translate(2 57) translate(14 27.833)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
